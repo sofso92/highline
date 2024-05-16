@@ -1,0 +1,7 @@
+# This setup will ignore Python compiled files, your virtual environment folder, and some common system files that should not be tracked by Git.
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
